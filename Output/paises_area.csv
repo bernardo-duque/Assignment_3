@@ -1,0 +1,198 @@
+"","pais","continente","area_km2"
+"1","Rússia","Europa",17098200
+"2","Canadá","América",9984670
+"3","China","Ásia",9598000
+"4","Estados Unidos","América",9371180
+"5","Brasil","América",8514880
+"6","Austrália","Oceania",7692060
+"7","Índia","Ásia",3287260
+"8","Argentina","América",2780400
+"9","Cazaquistão","Ásia",2724910
+"10","Argélia","África",2381740
+"11","República Democrática do Congo","África",2344860
+"12","Arábia Saudita","Ásia",2149680
+"13","México","América",1964380
+"14","Indonésia","Ásia",1910930
+"15","Sudão","África",1861480
+"16","Líbia","África",1759540
+"17","Irão","Ásia",1648200
+"18","Mongólia","Ásia",1564100
+"19","Peru","América",1285220
+"20","Chade","África",1284000
+"21","Níger","África",1267000
+"22","Angola","África",1246700
+"23","Mali","África",1241240
+"24","África do Sul","África",1221040
+"25","Colômbia","América",1141750
+"26","Etiópia","África",1104300
+"27","Bolívia","América",1098580
+"28","Mauritânia","África",1025520
+"29","Egito","África",1002450
+"30","Tanzânia","África",945087
+"31","Nigéria","África",923768
+"32","Venezuela","América",912050
+"33","Namíbia","África",824268
+"34","Moçambique","África",801590
+"35","Paquistão","Ásia",796095
+"36","Turquia","Ásia",783562
+"37","Chile","América",756102
+"38","Zâmbia","África",752612
+"39","Mianmar","Ásia",676578
+"40","Afeganistão","Ásia",652090
+"41","França","Europa",640597
+"42","Somália","África",637657
+"43","República Centro-Africana","África",622984
+"44","Sudão do Sul","África",619745
+"45","Ucrânia","Europa",603500
+"46","Madagáscar","África",587041
+"47","Botsuana","África",582000
+"48","Quénia","África",580367
+"49","Iémen","Ásia",527968
+"50","Tailândia","Ásia",513120
+"51","Espanha","Europa",505992
+"52","Turcomenistão","Ásia",488100
+"53","Camarões","África",475442
+"54","Papua Nova Guiné","Oceania",462840
+"55","Suécia","Europa",450295
+"56","Usbequistão","Ásia",447400
+"57","Marrocos","África",446550
+"58","Iraque","Ásia",435244
+"59","Paraguai","América",406752
+"60","Zimbábue","África",390757
+"61","Japão","Ásia",377930
+"62","Alemanha","Europa",357021
+"63","Congo-Brazzaville","África",342000
+"64","Finlândia","Europa",338424
+"65","Vietname","Ásia",331212
+"66","Malásia","Ásia",330803
+"67","Noruega","Europa",323782
+"68","Costa do Marfim","África",322463
+"69","Polónia","Europa",312685
+"70","Omã","Ásia",309500
+"71","Itália","Europa",301336
+"72","Filipinas","Ásia",3e+05
+"73","Burquina Faso","África",272967
+"74","Nova Zelândia","Oceania",270469
+"75","Gabão","África",267668
+"76","Equador","América",256369
+"77","Guiné","África",245857
+"78","Reino Unido","Europa",242900
+"79","Uganda","África",241550
+"80","Gana","África",238533
+"81","Roménia","Europa",238391
+"82","Laus","Ásia",236800
+"83","Guiana","América",214969
+"84","Bielorrússia","Europa",207600
+"85","Quirguistão","Ásia",199951
+"86","Senegal","África",196722
+"87","Síria","Ásia",185180
+"88","Camboja","Ásia",181035
+"89","Uruguai","América",176215
+"90","Suriname","América",163820
+"91","Tunísia","África",163610
+"92","Nepal","Ásia",147181
+"93","Bangladexe","Ásia",143998
+"94","Tajiquistão","Ásia",143100
+"95","Grécia","Europa",131957
+"96","Nicarágua","América",130373
+"97","Coreia do Norte","Ásia",120538
+"98","Maláui","África",118484
+"99","Eritreia","África",117600
+"100","Benim","África",114763
+"101","Honduras","América",112492
+"102","Libéria","África",111369
+"103","Bulgária","Europa",110879
+"104","Cuba","América",109886
+"105","Guatemala","América",108889
+"106","Islândia","Europa",103000
+"107","Coreia do Sul","Ásia",99828
+"108","Hungria","Europa",93028
+"109","Portugal","Europa",92090
+"110","Jordânia","Ásia",89342
+"111","Sérvia","Europa",88361
+"112","Azerbaijão","Ásia",86600
+"113","Áustria","Europa",83871
+"114","Emirados Árabes Unidos","Ásia",83600
+"115","República Checa","Europa",78865
+"116","Panamá","América",75417
+"117","Serra Leoa","África",71740
+"118","Irlanda","Europa",70273
+"119","Geórgia","Ásia",69700
+"120","Sri Lanca","Ásia",65610
+"121","Lituânia","Europa",65300
+"122","Letónia","Europa",64559
+"123","Togo","África",56785
+"124","Croácia","Europa",56594
+"125","Bósnia e Herzegovina","Europa",51197
+"126","Costa Rica","América",51100
+"127","Eslováquia","Europa",49037
+"128","República Dominicana","América",48671
+"129","Estónia","Europa",45227
+"130","Dinamarca","Europa",43098
+"131","Países Baixos","Europa",41540
+"132","Suíça","Europa",41277
+"133","Butão","Ásia",38394
+"134","Taiuã","Ásia",36191
+"135","Guiné-Bissau","África",36125
+"136","Moldávia","Europa",33846
+"137","Bélgica","Europa",30528
+"138","Lesoto","África",30355
+"139","Arménia","Ásia",29743
+"140","Salomão","Oceania",28896
+"141","Albânia","Europa",28748
+"142","Guiné Equatorial","África",28051
+"143","Burúndi","África",27834
+"144","Haiti","América",27750
+"145","Ruanda","África",26338
+"146","Macedónia do Norte","Europa",25713
+"147","Jibuti","África",23200
+"148","Belize","América",22966
+"149","Israel","Ásia",22072
+"150","Salvador","América",21041
+"151","Eslovénia","Europa",20273
+"152","Fiji","Oceania",18272
+"153","Cuaite","Ásia",17818
+"154","Essuatíni","África",17364
+"155","Timor-Leste","Oceania",14874
+"156","Bahamas","América",13943
+"157","Montenegro","Europa",13812
+"158","Vanuatu","Oceania",12189
+"159","Catar","Ásia",11586
+"160","Gâmbia","África",11295
+"161","Jamaica","América",10991
+"162","Cosovo","Europa",10887
+"163","Líbano","Ásia",10452
+"164","Chipre","Europa",9251
+"165","Estado da Palestina","Ásia",6520
+"166","Brunei","Ásia",5765
+"167","Trindade e Tobago","América",5130
+"168","Cabo Verde","África",4033
+"169","Samoa","Oceania",2842
+"170","Luxemburgo","Europa",2586
+"171","Comores","África",2170
+"172","Maurícia","África",2040
+"173","São Tomé e Príncipe","África",964
+"174","Barém","Ásia",758
+"175","Dominica","América",751
+"176","Tonga","Oceania",747
+"177","Quiribáti","Oceania",726
+"178","Singapura","Ásia",710
+"179","Micronésia","Oceania",702
+"180","Santa Lúcia","América",539
+"181","Andorra","Europa",468
+"182","Palau","Oceania",459
+"183","Seicheles","África",452
+"184","Antiga e Barbuda","América",442
+"185","Barbados","América",430
+"186","São Vicente e Granadinas","América",389
+"187","Granada","América",344
+"188","Malta","Europa",316
+"189","Maldivas","Ásia",300
+"190","São Cristóvão e Neves","América",261
+"191","Ilhas Marechal","Oceania",181
+"192","Listenstaine","Europa",160
+"193","São Marinho","Europa",61
+"194","Tuvalu","Oceania",26
+"195","Nauru","Oceania",21
+"196","Mónaco","Europa",2
+"197","Vaticano","Europa",0.44
