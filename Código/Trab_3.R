@@ -6,6 +6,7 @@ library(rvest)
 library(janitor)
 library(writexl)
 library(webshot)
+library(stringr)
 
 ##### Scraping e exportação do csv #####
 
